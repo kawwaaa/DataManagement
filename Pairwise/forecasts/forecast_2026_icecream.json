@@ -1,0 +1,22 @@
+{
+  "product": "icecream",
+  "sales_2025_lkr": 69790590,
+  "sales_2026_lkr": 74025432,
+  "growth_percent": 6.1,
+  "peak_month": "October",
+  "low_month": "March",
+  "monthly_avg_lkr": {
+    "April": 194497,
+    "August": 205854,
+    "December": 205965,
+    "February": 195319,
+    "January": 196126,
+    "July": 202758,
+    "June": 202588,
+    "March": 194042,
+    "May": 204771,
+    "November": 208653,
+    "October": 212750,
+    "September": 209803
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "generated_on": "2025-11-20 13:16",
+  "top_10_products_by_revenue": [
+    {
+      "rank": 1,
+      "product": "KEERI SAMBA RAW 1KG",
+      "revenue_lkr": 285176
+    },
+    {
+      "rank": 2,
+      "product": "MR POP KOCHCHI BALLZ 50G",
+      "revenue_lkr": 180000
+    },
+    {
+      "rank": 3,
+      "product": "BLACK & GOLD DEVILLED DHALL 200G (25)",
+      "revenue_lkr": 180000
+    },
+    {
+      "rank": 4,
+      "product": "WIJAYA MEAT CURRY POWDER 50G",
+      "revenue_lkr": 140942
+    },
+    {
+      "rank": 5,
+      "product": "SF LINNA 1KG",
+      "revenue_lkr": 98069
+    },
+    {
+      "rank": 6,
+      "product": "COCONUT",
+      "revenue_lkr": 81399
+    },
+    {
+      "rank": 7,
+      "product": "SF MATTA SALAYA 1KG",
+      "revenue_lkr": 64944
+    },
+    {
+      "rank": 8,
+      "product": "HIGHLAND SET YOGHURT 90G",
+      "revenue_lkr": 60470
+    },
+    {
+      "rank": 9,
+      "product": "SF KOPPARA MIDDLE CUT 1KG",
+      "revenue_lkr": 57152
+    },
+    {
+      "rank": 10,
+      "product": "FT BANANA-SOUR 1KG",
+      "revenue_lkr": 51027
+    }
+  ],
+  "total_relevant_bills": 17882,
+  "smart_bundles_for_top10": [
+    {
+      "top_product": "KEERI SAMBA RAW 1KG",
+      "bundle_with": "RED DHALL (REG EAGLE) 1KG",
+      "confidence": 18.8,
+      "lift": 2.3,
+      "direction": "←"
+    },
+    
+    {
+      "top_product": "SF LINNA 1KG",
+      "bundle_with": "SF MUHUDUKUKULA 1KG",
+      "confidence": 60.4,
+      "lift": 1.5,
+      "direction": "←"
+    },
+    {
+      "top_product": "COCONUT",
+      "bundle_with": "FREELAN PEPPER POWDER 50G (20)",
+      "confidence": 3.1,
+      "lift": 2.0,
+      "direction": "→"
+    }
+    
+  ]
+}
